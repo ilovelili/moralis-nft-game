@@ -1,0 +1,12 @@
+{
+  "name": "moralis-nft-game",
+  "version": "1.0.0",
+  "description": "nft game built with moralis",
+  "main": "index.js",
+  "repository": "git@github.com:ilovelili/moralis-nft-game.git",
+  "author": "ilovelili <route666@live.cn>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0"
+  }
+}
