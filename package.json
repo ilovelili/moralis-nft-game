@@ -6,6 +6,9 @@
   "repository": "git@github.com:ilovelili/moralis-nft-game.git",
   "author": "ilovelili <route666@live.cn>",
   "license": "MIT",
+  "scripts": {
+    "sm:deploy:local": "truffle migrate --reset --network development"
+  },
   "dependencies": {
     "@openzeppelin/contracts": "^4.5.0"
   }
